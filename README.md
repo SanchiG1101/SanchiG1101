@@ -3,7 +3,7 @@
 <h3 align="center"> Full Stack Web Developer | AI/ML Enthusiast</h3>
 
 <p align="center">
-  <img src="Banner.jpg" alt="Banner" width="100%" />
+  <img src="Banner(1).jpg" alt="Banner" width="100%" />
 </p>
 
 <hr/>
